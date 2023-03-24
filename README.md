@@ -1,0 +1,165 @@
+| Champions      | Champion select shortcuts                                                                                                                                                          |
+|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aatrox         | ox, tx, rx                                                                                                                                                                         |
+| Ahri           | ahri                                                                                                                                                                               |
+| Akali          | akl                                                                                                                                                                                |
+| Akshan         | aks, khn, ksh                                                                                                                                                                      |
+| Alistar        | aiar, lstr, istr, alsr, asar, aitr, altr, ltar, star, itar, alir                                                                                                                   |
+| Amumu          | muu, mum, umu                                                                                                                                                                      |
+| Anivia         | nvi, iva, nva, nii                                                                                                                                                                 |
+| Annie          | anie, anne, nnie, anni                                                                                                                                                             |
+| Aphelios       | ps, hl                                                                                                                                                                             |
+| Ashe           | ashe                                                                                                                                                                               |
+| Aurelion Sol   | oo                                                                                                                                                                                 |
+| Azir           | zir                                                                                                                                                                                |
+| Bard           | ard                                                                                                                                                                                |
+| Bel'Veth       | lv, bv, 'v, b', bh, vh                                                                                                                                                             |
+| Blitzcrank     | bk, bz, bi, zk, tz                                                                                                                                                                 |
+| Brand          | rad, bnd                                                                                                                                                                           |
+| Braum          | bu, bm                                                                                                                                                                             |
+| Caitlyn        | cy                                                                                                                                                                                 |
+| Camille        | lle, cll, aml, cml, cle, cmi, cme, mll                                                                                                                                             |
+| Cassiopeia     | cp                                                                                                                                                                                 |
+| Cho'Gath       | 'g, cg, oh, c', gh                                                                                                                                                                 |
+| Corki          | cki, cor, cok                                                                                                                                                                      |
+| Darius         | diu, dus, dau, drs, dri, riu                                                                                                                                                       |
+| Diana          | dna, daa, dia                                                                                                                                                                      |
+| Draven         | dv                                                                                                                                                                                 |
+| Dr. Mundo      | .                                                                                                                                                                                  |
+| Ekko           | kk                                                                                                                                                                                 |
+| Elise          | lse                                                                                                                                                                                |
+| Evelynn        | eyn, evn, lnn, vln, ynn, vnn, vly, evy, ely, evl, vey, eey                                                                                                                         |
+| Ezreal         | eza, zel, zre, eze, zrl, ezl, ezr, erl, zal, eea                                                                                                                                   |
+| Fiddlesticks   | fc, fs, fd, fl, fk, dc                                                                                                                                                             |
+| Fiora          | fra, fia, fio, fir, foa                                                                                                                                                            |
+| Fizz           | fz, zz                                                                                                                                                                             |
+| Galio          | gi                                                                                                                                                                                 |
+| Gangplank      | gp, gk                                                                                                                                                                             |
+| Garen          | grn                                                                                                                                                                                |
+| Gnar           | gnr                                                                                                                                                                                |
+| Gragas         | grg                                                                                                                                                                                |
+| Graves         | gv                                                                                                                                                                                 |
+| Gwen           | wen, gwn, gwe                                                                                                                                                                      |
+| Hecarim        | hea, car, hcm, rim, cim, crm, eam, hca, hci, eci, erm, eca, ecr, ecm, hrm, ham, hcr                                                                                                |
+| Heimerdinger   | dg, hd                                                                                                                                                                             |
+| Illaoi         | llo, iai, lao, loi                                                                                                                                                                 |
+| Irelia         | iel, irl                                                                                                                                                                           |
+| Ivern          | vrn                                                                                                                                                                                |
+| Janna          | jna, jnn                                                                                                                                                                           |
+| Jarvan IV      | vv, jv, jr                                                                                                                                                                         |
+| Jax            | jax                                                                                                                                                                                |
+| Jayce          | jc, jy, je                                                                                                                                                                         |
+| Jhin           | jh                                                                                                                                                                                 |
+| Jinx           | nx                                                                                                                                                                                 |
+| Kai'Sa         | i'                                                                                                                                                                                 |
+| Kalista        | klt, kit, kla, kls                                                                                                                                                                 |
+| Karma          | krm, rma, kam                                                                                                                                                                      |
+| Karthus        | ku, hu                                                                                                                                                                             |
+| Kassadin       | ksd, asd, kdn, sdi, adn, aad, sdn, kss, kad, kdi                                                                                                                                   |
+| Katarina       | kna, kti, kri                                                                                                                                                                      |
+| Kayle          | kyl, yle, ayl, kye                                                                                                                                                                 |
+| Kayn           | kyn                                                                                                                                                                                |
+| Kennen         | nnn, knn, kee                                                                                                                                                                      |
+| Kha'Zix        | 'x, zx, hx, kx, hz                                                                                                                                                                 |
+| Kindred        | kid, kdd, nrd, krd, kdr, ndd, ded, kde, knd, red                                                                                                                                   |
+| Kled           | kld, led                                                                                                                                                                           |
+| Kog'Maw        | kw, g', om, ow, gm, 'm, 'w, mw                                                                                                                                                     |
+| K'Sante        | 'n                                                                                                                                                                                 |
+| LeBlanc        | eb                                                                                                                                                                                 |
+| Lee Sin        | esn, ees                                                                                                                                                                           |
+| Leona          | loa, leo, eoa                                                                                                                                                                      |
+| Lillia         | lll                                                                                                                                                                                |
+| Lissandra      | lnr, lsd, lda, lnd, iad, lid, ada                                                                                                                                                  |
+| Lucian         | uc                                                                                                                                                                                 |
+| Lulu           | lul, luu                                                                                                                                                                           |
+| Lux            | lx, ux                                                                                                                                                                             |
+| Malphite       | lpi, lhi, mpi, pit, lpt, lph, lhe, map, aht, lte, mpe, hte, apt, mpt, alp, mhe, mlt, mlp, lpe, mht, mph, pht, hit, lht, mhi                                                        |
+| Malzahar       | mz                                                                                                                                                                                 |
+| Maokai         | aok, mao, mak                                                                                                                                                                      |
+| Master Yi      | my                                                                                                                                                                                 |
+| Milio          | iio, mii, mlo                                                                                                                                                                      |
+| Miss Fortune   | mf, fu, fn                                                                                                                                                                         |
+| Wukong         | wg, wo, uk                                                                                                                                                                         |
+| Mordekaiser    | od                                                                                                                                                                                 |
+| Morgana        | mga, ogn, rgn, mna, man, mgn, mog, org                                                                                                                                             |
+| Nami           | nmi                                                                                                                                                                                |
+| Nasus          | sus, nss, nsu                                                                                                                                                                      |
+| Nautilus       | tiu, nut, uts, tlu, nis, lus, til, nti, alu, utu, utl, aut, uti, uus                                                                                                               |
+| Neeko          | neeo, neek                                                                                                                                                                         |
+| Nidalee        | nid, ial, dal                                                                                                                                                                      |
+| Nilah          | nlh, ilh, nih, nah                                                                                                                                                                 |
+| Nocturne       | cu                                                                                                                                                                                 |
+| Nunu & Willump | &                                                                                                                                                                                  |
+| Olaf           | of, af, lf                                                                                                                                                                         |
+| Orianna        | oin                                                                                                                                                                                |
+| Ornn           |                                                                                                                                                                                    |
+| Pantheon       | tho, pae, pnh, pao, pth, pon, pto, pat, pah, nth, nhe, ptn, pno, nhn, pnn, hon, pnt, pen                                                                                           |
+| Poppy          | pp, oy                                                                                                                                                                             |
+| Pyke           | yke, pyk, pye, pke                                                                                                                                                                 |
+| Qiyana         | qa, qy                                                                                                                                                                             |
+| Quinn          | qu                                                                                                                                                                                 |
+| Rakan          | rkan, raan, rakn                                                                                                                                                                   |
+| Rammus         | rmm, mms, ams, rms, mus                                                                                                                                                            |
+| Rek'Sai        | r'                                                                                                                                                                                 |
+| Rell           |                                                                                                                                                                                    |
+| Renata Glasc   | tg, gc                                                                                                                                                                             |
+| Renekton       | rkt, eto, ekn, rto, net, ekt, nkt, etn, rko, enk, nkn                                                                                                                              |
+| Rengar         | regr, ngar, enar, rgar, renr                                                                                                                                                       |
+| Riven          | rive, rivn, rien                                                                                                                                                                   |
+| Rumble         | mb, rb, ub                                                                                                                                                                         |
+| Ryze           | yz, rz                                                                                                                                                                             |
+| Samira         | sm                                                                                                                                                                                 |
+| Sejuani        | sj, eu, ju, ej                                                                                                                                                                     |
+| Senna          | snn                                                                                                                                                                                |
+| Seraphine      | ep, rp                                                                                                                                                                             |
+| Sett           | ett                                                                                                                                                                                |
+| Shaco          | sho, sac, sco, hco, sao, aco, shc, hac                                                                                                                                             |
+| Shen           | shen                                                                                                                                                                               |
+| Shyvana        | hv, yv, hy                                                                                                                                                                         |
+| Singed         | sg, gd                                                                                                                                                                             |
+| Sion           | sion                                                                                                                                                                               |
+| Sivir          | svi, siv, svr                                                                                                                                                                      |
+| Skarner        | skn, srr, skr, ske, arr, krr                                                                                                                                                       |
+| Sona           | sona                                                                                                                                                                               |
+| Soraka         | oak, sok, srk, sak                                                                                                                                                                 |
+| Swain          | sw                                                                                                                                                                                 |
+| Sylas          | sas, sys, yla, yls, sla, syl, sls                                                                                                                                                  |
+| Syndra         | syd, syr                                                                                                                                                                           |
+| Tahm Kench     | kc, hk, mc                                                                                                                                                                         |
+| Taliyah        | lyh, tlh, aih, tiy, tay, iyh, liy, tli, tyh, lya, lih                                                                                                                              |
+| Talon          | tlo, tao                                                                                                                                                                           |
+| Taric          | trc                                                                                                                                                                                |
+| Teemo          | tmo, tem, emo, eem                                                                                                                                                                 |
+| Thresh         | esh, tes, reh, tsh, trh, rsh, thr, hrh, hsh, hrs                                                                                                                                   |
+| Tristana       | trt, rst, rsn, tsn, ttn, rit                                                                                                                                                       |
+| Trundle        | tud, tru, udl, rdl, tle, tdl, trl, tnl, ude, tul                                                                                                                                   |
+| Tryndamere     | rym, dam, tdr, rya, rre, nme, ymr, tyr, tye, nmr, trm, dme, yar, tym, rdm, ydm, tnm, yde, yre, ryd, ryr, yer, yee, yae, trr, ynm, tmr, tdm, yme, ndm, rmr, yam, ryn, tyd, tnr, rnm |
+| Twisted Fate   | wd, ws, df, ef, tf, wf                                                                                                                                                             |
+| Twitch         | wh                                                                                                                                                                                 |
+| Udyr           | uy, dy                                                                                                                                                                             |
+| Urgot          | ugo, rot, rgt, urg, ugt, got, rgo, urt, uot                                                                                                                                        |
+| Varus          | vu                                                                                                                                                                                 |
+| Vayne          | vye, vne, vae, vay                                                                                                                                                                 |
+| Veigar         | vei, vgr, vga, iga                                                                                                                                                                 |
+| Vel'Koz        | vz, oz, v', 'k, 'o                                                                                                                                                                 |
+| Vex            | ex, vx                                                                                                                                                                             |
+| Vi             |                                                                                                                                                                                    |
+| Viego          | vgo, ego, ieo, igo                                                                                                                                                                 |
+| Viktor         | vit, kor, vkr, ikt, iko, vtr, vkt, tor, ito, vto, vik, ikr                                                                                                                         |
+| Vladimir       | vd, vm                                                                                                                                                                             |
+| Volibear       | vb, ob, ib                                                                                                                                                                         |
+| Warwick        | rw, ww, wr                                                                                                                                                                         |
+| Xayah          | xy                                                                                                                                                                                 |
+| Xerath         | xr, xe, xt                                                                                                                                                                         |
+| Xin Zhao       | xo, xn, xz, nz, xi                                                                                                                                                                 |
+| Yasuo          | yso, yau, yao, yuo, suo, ysu                                                                                                                                                       |
+| Yone           | yon, yoe                                                                                                                                                                           |
+| Yorick         | yri, yok, yoi, oic, yic, yor, yoc, yrk, yck, orc, oik, ock, yrc, yik                                                                                                               |
+| Yuumi          | yuu, yui, yum, umi, ymi                                                                                                                                                            |
+| Zac            | zac                                                                                                                                                                                |
+| Zed            | zd                                                                                                                                                                                 |
+| Zeri           | zei, zri, zer                                                                                                                                                                      |
+| Ziggs          | zs, zg                                                                                                                                                                             |
+| Zilean         | zln, zle, zen, zia, zie, zla, zil, zin                                                                                                                                             |
+| Zoe            | zoe                                                                                                                                                                                |
+| Zyra           | zy                                                                                                                                                                                 |
